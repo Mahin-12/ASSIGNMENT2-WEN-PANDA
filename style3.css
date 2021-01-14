@@ -1,0 +1,46 @@
+.img{
+   width: 200px;
+   float: right;
+    padding: 10px;
+   position:auto;
+}
+.header{
+    margin: 0;
+}
+.h1-1{
+    margin-left: 10%;
+}
+.color{
+    color: goldenrod;
+}
+
+}
+.hello-card-footer  .btn {
+    float:right;
+}
+.card-img-top{
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: auto;
+    height: 50%;
+    width: 70%;
+}
+
+.card-img{
+    margin-top: 15px;
+    margin-left:40px;
+    width: 60%;
+    height: 80%;
+}
+.hello-card{
+    border: 0;
+}
+.hello-card-footer{
+    border: 0;
+    background-color: white;
+    
+}
+.hello-slide .carousel-item{
+background-color:lightgoldenrodyellow;
+    
+}
